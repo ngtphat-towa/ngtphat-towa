@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="assets/header-gif.gif"  />
-</div>
-
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Phat</h1>
 <h3 align="center">A passionate software engineering student</h3>
 
