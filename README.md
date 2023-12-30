@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDM5MTg5MTIsIm5iZiI6MTcwMzkxODYxMiwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMwVDA2NDMzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkZWUwZjA0M2JhNDhhYjE0MDM3Mzk4ZDFjN2VlMzQ4ZjJjNTkxYzJiYmRjMTAzODAxY2Y1NmZiNjA3MmFhOTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Y9m1AKfnFmbaC_Ok0NAyjXJtOEVOo4bcKpP2IbjpSrY"  />
+  <img height="150" src="assets/header-gif.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Phat</h1>
