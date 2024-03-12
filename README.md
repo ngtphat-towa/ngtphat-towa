@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Phat</h1>
-<h3 align="center">A passionate software engineering student</h3>
+<h4 align="center">Enthusiastic software development student actively learning .NET MVC, API, and Flutter mobile app development, while exploring concepts like Test-Driven Development (TDD), Domain-Driven Design (DDD), and Clean Architecture. Have practical experience with WinForms, Flutter, and Full Stack development using Node.js, Vue.js, and TypeScript. Eager to continue learning and contribute to impactful software projects.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngtphat-towa&label=Profile%20views&color=0e75b6&style=flat" alt="ngtphat-towa" /> </p>
 
